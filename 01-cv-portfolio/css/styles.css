@@ -178,6 +178,39 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 .portfolio-section .p-item.p-item-2 .img:last-child{ float: right; width: 50%; padding-left: 7.5px; }
 
 
+
+.portfolio-section .p-item .image{
+  opacity: 1;
+  display: block;
+  transition: 1s ease;
+  backface-visibility: hidden;
+}
+
+.portfolio-section .middle{
+	transition: .5s ease;
+	opacity: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	text-align: center;
+	width: 100%;
+}
+
+
+.portfolio-section .p-item:hover .image{ opacity: .4; }
+
+.portfolio-section .p-item:hover .middle{ opacity: 1; }
+
+.text{ color: black; font-size: 15px; font-weight: bold; }
+.text-top{ font-size: 20px; }
+.text-top .title{ font-size: 24px; color:#415BB5; }
+.text-top .title:hover{ color: #415BB5; }
+.text-top .links .live:hover{ color: #415BB5; }
+.text-top .links .repo:hover{ color: #415BB5; }
+
+
 /* ---------------------------------
 6. ABOUT SECTION
 --------------------------------- */
