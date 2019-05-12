@@ -1,4 +1,4 @@
-Welcome to the GitHub page of Donald Liu's Personal Website!
+## Welcome to the GitHub page of Donald Liu's Personal Website!
 
 [Live Site](https://Donald-Liu.me)
 
