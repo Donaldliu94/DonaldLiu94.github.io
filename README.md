@@ -1,10 +1,10 @@
 ## Welcome to the GitHub page of Donald Liu's Personal Website!
 
-[Live Site](https://Donald-Liu.me)
+* [Live Site](https://Donald-Liu.me)
 
-[LinkedIn](https://www.linkedin.com/in/donald-liu/)
+* [LinkedIn](https://www.linkedin.com/in/donald-liu/)
 
-[Github](https://github.com/Donaldliu94)
+* [Github](https://github.com/Donaldliu94)
 
 
 ### Introduction
