@@ -190,7 +190,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 .portfolio-section .portfolioFilter a.current{  color: #FFA804; }
 
-.portfolio-section .portfolioContainer{ margin-left: -15px; margin-right: -15px; }
+.portfolio-section .portfolioContainer{ margin-left: -15px; margin-right: -15px; padding-bottom: 50px; }
 
 .portfolio-section .p-item{ width: 33.333%; padding: 0 7.5px 0px; margin-top: 15px; }
 
